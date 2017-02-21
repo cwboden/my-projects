@@ -1,7 +1,7 @@
 import requests
 import sys
 
-loginUrl = "https://login.trueparts.mycccportal.com/"
+loginUrl = "https://trueparts.mycccportal.com/ProcurementSSP/poDashboard.html"
 visitUrl = "https://trueparts.mycccportal.com/ProcurementSSP/poDashboard.html"
 username = "dboden@cccis.com"
 password = "Steam1er"
