@@ -1,0 +1,13 @@
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\obj\Debug\attach_server.py
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\obj\Debug\visualstudio_py_repl.py
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\obj\Debug\visualstudio_py_util.py
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\obj\Debug\__init__.py
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\obj\Debug\__main__.py
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\bin\AzureSetup.cfg
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\bin\wfastcgi.py
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\obj\Debug\web.config
+C:\Users\Carson\Documents\my-projects\rocket-league-server\website\website\obj\Debug\web.debug.config
