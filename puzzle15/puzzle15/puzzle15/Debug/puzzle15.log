@@ -1,0 +1,4 @@
+﻿  puzzle15.cpp
+c:\users\carson\documents\myprojects\puzzle15\puzzle15.cpp(110): warning C4018: '<': signed/unsigned mismatch
+  puzzle15.vcxproj -> C:\Users\Carson\Documents\myProjects\puzzle15\puzzle15\Debug\puzzle15.exe
+  puzzle15.vcxproj -> C:\Users\Carson\Documents\myProjects\puzzle15\puzzle15\Debug\puzzle15.pdb (Full PDB)
