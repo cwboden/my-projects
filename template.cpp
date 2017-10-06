@@ -35,7 +35,7 @@ const int dc [] = {0, 1, 1, 1, 0, -1, -1, -1};
 
 using namespace std;
 
-int main(int argc, const char ** argv[])
+int main(int argc, char * argv[])
 {
 
     return 0;
