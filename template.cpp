@@ -22,7 +22,7 @@
 #define N 1000000
 #define LL long long
 
-inline LL Power(int b, int p) { LL ret = 1; for ( int i = 1; i <= p; i++ ) ret *= b; return ret; }
+inline LL power(int b, int p) { LL ret = 1; for ( int i = 1; i <= p; i++ ) ret *= b; return ret; }
 const int dr [] = {-1, -1, 0, 1, 1, 1, 0, -1};
 const int dc [] = {0, 1, 1, 1, 0, -1, -1, -1};
 
